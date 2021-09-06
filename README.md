@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @N1176
-- 👀 I’m interested in Unity3D Games
+- 👋 Hi, I’m ZYN1176
+- 👀 I’m interested in Unity3D 
 - 🌱 I’m currently learning rendering
 - 📫 How to reach me zyn1176@163.com
 
